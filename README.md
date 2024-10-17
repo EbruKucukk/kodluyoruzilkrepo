@@ -1,6 +1,6 @@
-# Proje Adı
+# Kodluyoruz Git ve GitHub eğitimi
 
-Bu proje, [proje açıklaması] amacıyla geliştirilmiştir. Markdown ve Git kullanarak yazılım geliştirme sürecini daha verimli hale getirmeyi öğrendim.
+Bu proje, aldığım Git eğitiminde ödev amacıyla geliştirilmiştir. Markdown ve Git kullanarak yazılım geliştirme sürecini daha verimli hale getirmeyi öğrendim.
 
 ## Başlangıç
 
