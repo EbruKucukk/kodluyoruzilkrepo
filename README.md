@@ -1,4 +1,4 @@
-# Kodluyoruz Git ve GitHub eğitimi
+# Kodluyoruz Veri Bilimi eğitimi
 
 Bu proje, aldığım Git eğitiminde ödev amacıyla geliştirilmiştir. Markdown ve Git kullanarak yazılım geliştirme sürecini daha verimli hale getirmeyi öğrendim.
 
