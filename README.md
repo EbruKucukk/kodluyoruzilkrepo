@@ -14,5 +14,5 @@ This repository contains my work on the content in the 'Kodluyoruz Data Science'
    git clone https://github.com/EbruKucukk/kodluyoruzilkrepo.git
 
 2. You can visit my Kodluyoruz profile from here:
-  ```bash
+   ```bash
    https://academy.patika.dev/@ebrukkucuk
