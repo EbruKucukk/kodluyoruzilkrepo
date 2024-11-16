@@ -12,3 +12,7 @@ This repository contains my work on the content in the 'Kodluyoruz Data Science'
 1. You can clone this project using this:
    ```bash
    git clone https://github.com/EbruKucukk/kodluyoruzilkrepo.git
+
+2. You can visit my Kodluyoruz profile from here:
+  ```bash
+   https://academy.patika.dev/@ebrukkucuk
