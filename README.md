@@ -1,6 +1,6 @@
 # Kodluyoruz Data Science Path
 
-Bu repository Kodluyoruz Veri Bilimi eğitimlerindeki içerikler üzerindeki çalışmalarımı içermektedir.  
+This repository contains my work on the content in the 'Kodluyoruz Data Science' trainings.
 
 ## Progress
 ✔️ Introduction to Data Science Pathway (Finished)
