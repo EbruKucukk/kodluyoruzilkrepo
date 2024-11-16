@@ -4,6 +4,7 @@ This repository contains my work on the content in the 'Kodluyoruz Data Science'
 
 ## Progress
 ✔️ Introduction to Data Science Pathway (Finished)
+
 〰️Intermediate Data Science Pathway (Ongoing)
 
 ### Cloning
